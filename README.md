@@ -1,5 +1,5 @@
 # 🛡️ CodeSentinel AI
-
+_______________________________________________________________________________________________________________________________________________________________
 CodeSentinel AI is a local, security-focused code review application that helps developers analyze uploaded project ZIP files for risky code patterns, insecure logic, and maintainability issues. The system combines deterministic static analysis with Gemini-based AI review to produce a clean, explainable project report.
 
 ## Project overview
